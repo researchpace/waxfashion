@@ -1,6 +1,11 @@
 # AfricanWaxFashionGan
+Exploring the use of StyleGAN and Stable Diffusion to generate African wax textile patterns from a synthetic dataset. It highlights the potential of generative AI in promoting cultural representation and innovation in fashion design.
 
 ## Datasets
+
+A curated synthetic dataset of African Wax Print textile patterns
+African Wax Pattern 5K Dataset - https://huggingface.co/datasets/paceailab/AfricanWaxPatterns_5KDataset
+African Wax Pattern 2K Dataset - https://huggingface.co/datasets/paceailab/AfricanWaxPatterns_2KDataset
 
 ## Setting Up the Environment
 
